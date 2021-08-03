@@ -1,0 +1,1 @@
+console.log("已加载2.js")
